@@ -26,13 +26,13 @@ Seja bem-vindo(a) ao meu perfil! Sou um(a) desenvolvedor(a) apaixonado(a) por te
 <div align="center">
 
 <!-- Estatísticas principais -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caetano4901&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 
 <!-- Linguagens mais usadas -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetano4901&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 
 <!-- Gráfico de atividade recente -->
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github)
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=caetano4901&theme=github)
 
 </div>
 
